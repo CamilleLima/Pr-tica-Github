@@ -1,0 +1,6 @@
+\Para solucionar o problema que o dono está demonstrando, que é basicamente ter o controle dos seus estacionamentos,
+eu desenvolveria um aplicativo que contasse com informações como:
+estacionamento 1: vagas 4, ocupadas 2 e livres 2, preço/fraçao: 5,00.
+Investindo numa acessibilidade interessante para o usuario, sem esquecer
+de "cruzar" as informações importantes que é preço de cada
+estacionamento e quantidade usadas u não/
