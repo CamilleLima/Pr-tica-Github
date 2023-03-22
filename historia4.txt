@@ -2,4 +2,4 @@ como solução para o funcionario, um calendario informativo
 será disponibilizado com o horario e locação de cada 
 funcionario, para faciitar a identificação das vagas
 o monitoramneto por cameras ira auxiliar a localizar
-as vagas e informar as disponiveis.
+as vagas e informar as vagas disponiveis
