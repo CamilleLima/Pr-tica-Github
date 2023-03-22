@@ -1,0 +1,5 @@
+como solução para o cliente, no aplicativo informará 
+onde tem vagas e qual estacionamento etá mais proximo,
+isso ocorrera atraves de cameras de monitoramento que 
+irão identificar as vagas a atualizar no sistemas se 
+disponiveis.
