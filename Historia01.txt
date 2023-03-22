@@ -1,5 +1,0 @@
-\Para solucionar a issue do motorista de uma empresa privada, que deseja saber onde tem vaga disponível
-assim ele não perde tempo para se locomover de acordo com o seu cliente, eu teria que fazer um banco de dados contendo 
-dados que pudessem ser "puxados" para mostrar ao usuário os lugares disponiveis
-e o tempo de duração para que a pessoa que está na vaga x saísse. E seria
-feito em cada estacionamento do proprietario./
